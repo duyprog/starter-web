@@ -1,8 +1,4 @@
 hihi
 kkkkkk
-<<<<<<< HEAD
 
 Duy PK5
-=======
-kkkkkk
->>>>>>> dev
