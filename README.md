@@ -11,3 +11,5 @@ git
 DEPLOYMENT
 
 New text merge to masters
+
+Modify masters
