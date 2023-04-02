@@ -5,3 +5,4 @@ add text to merge to master
 sss
 
 add issue 1
+resolve issue 1
