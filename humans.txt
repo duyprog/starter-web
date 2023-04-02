@@ -5,7 +5,7 @@
     Duy DevOps
 
 # THANKS
-
+    add issue to rebase with origin 
     All my friend
 
 # TECHNOLOGY COLOPHON
